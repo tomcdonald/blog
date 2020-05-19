@@ -4,7 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+### The University of Sheffield
+
+* PhD in Probabilistic Deep Learning (Sept. 2020 -
+* MSc Data Analytics (2019 - 2020)
+* BSc Physics (2015 - 2018)
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
