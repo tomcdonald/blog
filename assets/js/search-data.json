@@ -9,7 +9,7 @@
   
       "page1": {
           "title": "About Me",
-          "content": "The University of Sheffield . MSc Data Analytics (2019 - 2020) | BSc Physics (2015 - 2018) | . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I am currently a PhD student in the Machine Learning Group at The University of Sheffield, working on probabilistic deep learning under the supervision of Dr Mauricio Álvarez. My current research interests include deep Gaussian processes and their applications, and the application of physical concepts to probabilistic machine learning. Previously I completed my MSc in Data Analytics (2020) and BSc in Physics (2018) at Sheffield, and worked in the energy sector for a year as an analyst at ENGIE UK. . Publications . Accepted paper at CLEF 2020, The University of Sheffield at CheckThat! 2020: Claim Identification and Verification on Twitter , with Ziqing Dong, Yingji Zhang, Rebekah Hampson, James Young, Qianyu Cao, Jochen L. Leidner and Mark Stevenson | . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://tomcdonald.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
