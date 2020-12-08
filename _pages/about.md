@@ -10,6 +10,8 @@ I am currently a PhD student in the [Machine Learning Group](https://www.sheffie
 
 * Accepted paper at CLEF 2020, [The University of Sheffield at CheckThat! 2020: Claim Identification and Verification on Twitter ](http://ceur-ws.org/Vol-2696/paper_162.pdf), with Ziqing Dong, Yingji Zhang, Rebekah Hampson, James Young, Qianyu Cao, Jochen L. Leidner and Mark Stevenson
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+## Talks
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+* *Deep Latent Force Models* at The 3rd Sheffield Workshop on Structural Dynamics, 7th-10th December 2020
+
+###### Site powered by **[fastpages](https://github.com/fastai/fastpages)**
