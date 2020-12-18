@@ -12,6 +12,6 @@ I am currently a PhD student in the [Machine Learning Group](https://www.sheffie
 
 ## Talks
 
-* *Deep Latent Force Models* at The 3rd Sheffield Workshop on Structural Dynamics, 7th-10th December 2020
+* [*Deep Latent Force Models*](https://drive.google.com/file/d/1r1Q4veGysHfytQFCL1_nG-sxX67fQZSw/view) at [The 3rd Sheffield Workshop on Structural Dynamics, 7th-10th December 2020](https://lvv.ac.uk/lvv-events/Recordings-3rd-sheffield-workshop-on-structural-dynamics)
 
 ###### Site powered by **[fastpages](https://github.com/fastai/fastpages)**
