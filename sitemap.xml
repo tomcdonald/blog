@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://tomcdonald.github.io/blog/fastpages/jupyter/2020/05/19/UK-PV-Generation-Analysis-with-Prophet.html</loc>
+<loc>https://tomcdonald.github.io/blog/time-series-analysis/2020/05/19/UK-PV-Generation-Analysis-with-Prophet.html</loc>
 <lastmod>2020-05-19T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://tomcdonald.github.io/blog/pyro/variational-inference/2021/01/18/Variational-Bayesian-Regression-with-Pyro.html</loc>
+<lastmod>2021-01-18T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://tomcdonald.github.io/blog/about/</loc>
